@@ -37,4 +37,4 @@ Este projeto consiste em criar um jogo da memória utilizando HTML, CSS e JavaSc
 
 ### Veja o projeto
 
-[Link do projeto](https://fabiocasadossites.github.io/desafio-javascript-jogoDaMemoria-dio.git)
+[Link do projeto](https://fabiocasadossites.github.io/desafio-javascript-jogoDaMemoria-dio/)
